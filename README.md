@@ -47,7 +47,7 @@ there are some reason if your tx failed :
 - your gas price are to small
 - your GWEI are to small
 - your slippage are to small
-## -- Please use this node for Matic: `https://matic-mainnet.chainstacklabs.com`
+### -- Please use this node for Matic: `https://matic-mainnet.chainstacklabs.com`
 
 <H2>bug fixes:</H2>
 
