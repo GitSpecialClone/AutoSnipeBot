@@ -1,4 +1,4 @@
-06/21/21 IMPORTANT: Because my account's bandwidth for large files has expired, "Git Large File Storage (LFS)". Users are no longer allowed through the "download zip" option to download the full content of the repository, for that reason I have decided to proceed to upload future updates in the releases section of the repository. "https://github.com/JesusCrypto/windows-full-SNIPEBOT-Pancakeswap-Uniswap-Pangolin-Polygon-Bakeryswap/releases"
+06/21/21 IMPORTANT: Because my account's bandwidth for large files has expired, "Git Large File Storage (LFS)". Users are no longer allowed through the "Download ZIP" option to download the full content of the repository, for that reason I have decided to proceed to upload future updates in the releases section of the repository. "https://github.com/JesusCrypto/windows-full-SNIPEBOT-Pancakeswap-Uniswap-Pangolin-Polygon-Bakeryswap/releases"
 
 ### v2.8.2 Sniper bot for multiple DEX (Pancakeswap v1-v2, Uniswap v2-v3, Pangolin, Polygon, Bakeryswap)
 Full version sniping bot used to snipe during fair coin launches. With advanced options and a graphical user interface.
