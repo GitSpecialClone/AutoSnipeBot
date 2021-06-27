@@ -1,3 +1,5 @@
+06/26/21 For those who have trouble running the latest version, you can use <a href="https://github.com/JesusCrypto/windows-full-SNIPEBOT-Pancakeswap-Uniswap-Pangolin-Polygon-Bakeryswap/releases/tag/2.6">v2.6</a> which is the most stable so far. I am trying to correct the present error, I will take your time analyzing what is causing it. be patient. 
+
 06/21/21 IMPORTANT: Because my account's bandwidth for large files has expired, "Git Large File Storage (LFS)". Users are no longer allowed through the "Download ZIP" option to download the full content of the repository, for that reason I have decided to proceed to upload future updates in the releases section of the repository. "https://github.com/JesusCrypto/windows-full-SNIPEBOT-Pancakeswap-Uniswap-Pangolin-Polygon-Bakeryswap/releases"
 
 ### v2.8.2 Sniper bot for multiple DEX (Pancakeswap v1-v2, Uniswap v2-v3, Pangolin, Polygon, Bakeryswap)
@@ -51,30 +53,3 @@ there are some reason if your tx failed :
 - your GWEI are to small
 - your slippage are to small
 ### -- Please use this node for Matic: `https://matic-mainnet.chainstacklabs.com`
-
-<H2>bug fixes:</H2>
-
-* 06/21/2021:<br>
-  - Added little space that tells the user how much BNB/ETH/etc is in the personal wallet and its value. Information gets updated every 10 seconds, and if it does not show your balance it means something is wrong with your settings (RPC probably)
- 
-* 06/17/2021:<br> 
-  - Add functionality for token pools that are not token/bnb
-  - Uniswap V3 & many more DEXs
-  - Window that shows token and bnb balance and that gets updated frequently
-  - Bakeryswap support added
-  - Improved some small bugs in the UI and script
-  - Fixed bug in Force sell
-  
-* 06/12/2021:<br> 
-  - Several enhancements and bug fixes.<br>
-  - DEX selector is now a drop-down menu.<br> 
-  - When errors happen during selling, you can click SPACE to try again.<br> 
-  - Bug fix when only selling.<br> 
-  - Process killing enhancements.
-  
-* 06/10/2021:<br>
-  - Fixed the error that did not detect the internet connection correctly.
-  
-* 06/09/2021:<br> 
-  - Some bugs were patched.<br> 
-  - Now the file iniconfig.ini is renamed to usersetting.ini.
