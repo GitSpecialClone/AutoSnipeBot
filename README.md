@@ -1,8 +1,9 @@
-Soon a new update fixing many bugs and adding new functionalities, I have been very busy working on other projects. For those who have trouble running the latest version, you can use <a href="https://github.com/JesusCrypto/windows-full-SNIPEBOT-Pancakeswap-Uniswap-Pangolin-Polygon-Bakeryswap/releases/tag/2.6">v2.6</a> which is the most stable so far.
+### v2.9.6 Sniper bot for multiple DEX (Pancakeswap v1-v2, Uniswap v2-v3, Pangolin, Polygon, Bakeryswap, Sushiswap, Pantherswap, Koffeeswap)
 
-### v2.8.2 Sniper bot for multiple DEX (Pancakeswap v1-v2, Uniswap v2-v3, Pangolin, Polygon, Bakeryswap)
 Full version sniping bot used to snipe during fair coin launches. With advanced options and a graphical user interface.
 <img src="./SNIPA.gif">
+
+### P.D: Due to the new integrations, the new version has certain errors yet to be corrected. Try to try the version <a href="https://github.com/JesusCrypto/windows-full-SNIPEBOT-Pancakeswap-Uniswap-Pangolin-Polygon-Bakeryswap/releases/tag/2.6">v2.6</a> that is more stable due to its simplicity. 
 
 <H2>Getting started</H2>
 
