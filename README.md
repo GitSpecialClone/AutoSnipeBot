@@ -1,4 +1,4 @@
-### v2.9.6 Sniper bot for multiple DEX (Pancakeswap v1-v2, Uniswap v2-v3, Pangolin, Polygon, Bakeryswap, Sushiswap, Pantherswap, Koffeeswap)
+### v2.9.1 Sniper bot for multiple DEX (Pancakeswap v1-v2, Uniswap v2-v3, Pangolin, Polygon, Bakeryswap, Sushiswap)
 
 Full version sniping bot used to snipe during fair coin launches. With advanced options and a graphical user interface.
 <img src="./SNIPA.gif">
